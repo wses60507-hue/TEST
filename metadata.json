@@ -1,0 +1,5 @@
+{
+  "name": "3D Heart VPC Simulator",
+  "description": "A millimeter-precision 3D heart VPC conduction simulator with real-time ECG mapping and AI clinical analysis.",
+  "requestFramePermissions": []
+}
